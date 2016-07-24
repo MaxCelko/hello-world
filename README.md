@@ -1,3 +1,3 @@
 # hello-world
 Test Repository 
-This is a test to chekc out GitHub 
+This is a test to check out GitHub 
